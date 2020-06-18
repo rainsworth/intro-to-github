@@ -19,3 +19,5 @@
    - Projects
    - Wiki
 6. Tutorial of setting up a GitHub repository/project
+   - Hello World tutorial: https://guides.github.com/activities/hello-world/
+   - Personal website using GitHub Pages tutorial: https://guides.github.com/features/pages/
