@@ -23,11 +23,16 @@
             - Click through to a few of the files to preview them
          - The README is automatically rendered underneath the file system. The README is a text file containing information about the repository that is typically the first file a visitor to your repository will see.
          - Above the file system is a set of buttons:
-            - Branch (you can click to view the different branches)
-            - Go to file (easily search for a file within the repository)
+            - Branch (click to view the different branches)
+            - Go to file (click to easily search for a file within the repository)
             - Add file (click to add a new file to the repository)
             - Clone (click to clone the repository to your local workspace, open with the [GitHub Desktop](https://desktop.github.com/) app or download the .zip file)
       - Issues
+         - Click on the [Example Issue](https://github.com/rainsworth/intro-to-github/issues/18)
+         - Issues are suggested improvements, tasks or questions related to the repository.
+         - Issues can be created by anyone (for public repositories), and are moderated by repository collaborators. 
+         - Each issue contains its own discussion thread. 
+         - You can also categorise an issue with labels, assign it to someone and add to a project management board in the right sidebar.
       - Pull requests
       - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
       - Projects
