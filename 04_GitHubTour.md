@@ -1,6 +1,31 @@
 # GitHub Interface Tour and Jargon Busting
 
+## Interface Tour
 
+1. GitHub home page: https://github.com/ (sign up or log in!)
+2. GitHub dashboard: https://github.com/ (logged in)
+   - The dashboard might be confusing until we cover the topics related to repositories (such as issues, pull requests, etc.)
+   - Therefore, we'll briefly see the dashboard and then come back to it after touring the user profile and a repository interfaces)
+   - Click the icon in the top right corner and select "Your profile"
+3. GitHub profile: https://github.com/rainsworth
+   - User profile information such as name, description, links and organisations can be seen in the left sidebar
+   - The Overview tab displays the user's pinned repositories and contribution activity on GitHub
+   - The Repositories tab displays a list of the user's repositories
+   - The Projects and Packages tabs are beyond the scope of this session, but you can click the "Learn More" buttons to learn more about them
+   - Click back to the Repositories tab and go to the `intro-to-github` repository
+4. GitHub repository: https://github.com/rainsworth/intro-to-github
+   - Code
+      - Information "About" the repository can be seen in the right sidebar (such as a description, tagged topics, links to the README and license, release and package information)
+      - File directory (contains the files associated with the project such as code, data, text, etc.)
+      - README
+   - Issues
+   - Pull requests
+   - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
+   - Projects
+   - Wiki
+   - Security 
+   - Insights
+   - Settings
 
 
 ## Glossary
