@@ -14,18 +14,27 @@
    - The Projects and Packages tabs are beyond the scope of this session, but you can click the "Learn More" buttons to learn more about them
    - Click back to the Repositories tab and go to the `intro-to-github` repository
 4. GitHub repository: https://github.com/rainsworth/intro-to-github
-   - Code
-      - Information "About" the repository can be seen in the right sidebar (such as a description, tagged topics, links to the README and license, release and package information)
-      - File directory (contains the files associated with the project such as code, data, text, etc.)
-      - README
-   - Issues
-   - Pull requests
-   - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
-   - Projects
-   - Wiki
-   - Security 
-   - Insights
-   - Settings
+   - At the very top you will see the user and repository name displayed as `username/repository-name`
+   - Underneath you will see a set of tabs labelled Code, Issues, Pull requests, etc. which we will navigate through now:
+      - Code
+         - This is the tab where you can view and interact directly with the contents of the repository
+         - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package and environment information)
+         - The repository file system is displayed (which contains the files associated with the project such as code, data, text, images, etc.)
+            - Click through to a few of the files to preview them
+         - The README is automatically rendered underneath the file system. The README is a text file containing information about the repository that is typically the first file a visitor to your repository will see.
+         - Above the file system is a set of buttons:
+            - Branch (you can click to view the different branches)
+            - Go to file (easily search for a file within the repository)
+            - Add file (click to add a new file to the repository)
+            - Clone (click to clone the repository to your local workspace, open with the [GitHub Desktop](https://desktop.github.com/) app or download the .zip file)
+      - Issues
+      - Pull requests
+      - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
+      - Projects
+      - Wiki
+      - Security 
+      - Insights
+      - Settings
 
 
 ## Glossary
