@@ -1,11 +1,15 @@
 # Examples of how GitHub is used
 
+GitHub is used for:
 - Collaboration
 - Code sharing and documentation
 - Online portfolio of your work
 - Open Educational Resources
 - Open Data
+- Open Source 
 - Project Management
+- Social networking
+- **Version Control**
 - Websites
 - Writing papers
 
