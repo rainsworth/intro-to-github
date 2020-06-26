@@ -18,7 +18,11 @@
 4. GitHub repository: https://github.com/rainsworth/intro-to-github
    - A repository (or "repo") is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
    - At the very top you will see the user and repository name displayed as `username/repository-name`.
-   - Underneath you will see a set of tabs labelled Code, Issues, Pull requests, etc. which we will navigate through now:
+   - Underneath and to the right you will see buttons that say "Watch", "Star" and "Fork".
+      - You can click "Watch" to watch a repository or issue to receive notifications when updates are made to an issue or pull request.
+      - You can click "Star" to bookmark or display appreciation for a repository. 
+      - You can click "Fork" to make a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository. You can also open a pull request in the upstream repository and keep your fork synced with the latest changes since both repositories are still connected.
+   - Underneath that you will see a set of tabs labelled Code, Issues, Pull requests, etc. which we will navigate through now:
       - Code
          - This is the tab where you can view and interact directly with the contents of the repository.
          - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package and environment information).
