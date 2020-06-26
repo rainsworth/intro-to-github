@@ -52,9 +52,15 @@
          - You can create cards and move them around to help visualise any bottlenecks in your development.
          - You can also click on "Add cards" to the right of the project board to create cards from issues and pull requests.
       - Wiki
+         - Wikis provide a place in your repository to lay out the roadmap of your project, show the current status, and document software better, together.
       - Security 
+         - The Security tab is where you set up security features for your repository.
       - Insights
+         - The Insights tab allows you to explore the activity within your repository such as an overview of issues and pull requests, who has contributed to the repository, traffic to the repository, the network graph (timeline of the most recent commits to this repository and its network ordered by most recently pushed to), who has forked the repository and more.
+         - Click around the different items in the left sidebar to explore.
       - Settings
+         - The Settings tab allows you to manage the settings of your repository, such as the repository name, enabling features, setting up GitHub pages (turing your repo into a website), deleting the repository, managing notifications and more.
+         - Click around the different items in the left sidebar to explore.
 
 
 ## Glossary
@@ -92,4 +98,4 @@ Definitions are from the [GitHub Glossary](https://help.github.com/en/github/get
 - **review** - Reviews allow others with access to your repository to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged.
 - **star** - A bookmark or display of appreciation for a repository. Stars are a manual way to rank the popularity of projects.
 - **watch** - You can watch a repository or issue to receive notifications when updates are made to an issue or pull request.
-
+- **Wiki** - A section for hosting wiki style documentation on a GitHub repository.
