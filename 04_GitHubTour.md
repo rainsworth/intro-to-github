@@ -5,25 +5,25 @@
 1. GitHub home page: https://github.com/ (sign up or log in!)
 2. GitHub dashboard: https://github.com/ (logged in)
    - Your personal dashboard is the main hub of your activity on GitHub.
-   - The dashboard might be confusing until we cover the topics related to repositories (such as issues, pull requests, etc.)
-   - Therefore, we'll briefly see the dashboard and then come back to it after touring the user profile and a repository interfaces)
-   - Click the icon in the top right corner and select "Your profile"
+   - The dashboard might be confusing until we cover the topics related to repositories (such as issues, pull requests, etc.).
+   - Therefore, we'll briefly see the dashboard and then come back to it after touring the user profile and a repository interfaces).
+   - Click the icon in the top right corner and select "Your profile".
 3. GitHub profile: https://github.com/rainsworth
    - This is the page that shows information about a user's activity on GitHub.
-   - User profile information such as name, description, links and organisations can be seen in the left sidebar
-   - The Overview tab displays the user's pinned repositories and contribution activity on GitHub
-   - The Repositories tab displays a list of the user's repositories
-   - The Projects and Packages tabs are beyond the scope of this session, but you can click the "Learn More" buttons to learn more about them
-   - Click back to the Repositories tab and go to the `intro-to-github` repository
+   - User profile information such as name, description, links and organisations can be seen in the left sidebar.
+   - The Overview tab displays the user's pinned repositories and contribution activity on GitHub.
+   - The Repositories tab displays a list of the user's repositories.
+   - The Projects and Packages tabs are beyond the scope of this session, but you can click the "Learn More" buttons to learn more about them.
+   - Click back to the Repositories tab and go to the `intro-to-github` repository.
 4. GitHub repository: https://github.com/rainsworth/intro-to-github
    - A repository (or "repo") is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
-   - At the very top you will see the user and repository name displayed as `username/repository-name`
+   - At the very top you will see the user and repository name displayed as `username/repository-name`.
    - Underneath you will see a set of tabs labelled Code, Issues, Pull requests, etc. which we will navigate through now:
       - Code
-         - This is the tab where you can view and interact directly with the contents of the repository
-         - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package and environment information)
-         - The repository file system is displayed (which contains the files associated with the project such as code, data, text, images, etc.)
-            - Click through to a few of the files to preview them
+         - This is the tab where you can view and interact directly with the contents of the repository.
+         - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package and environment information).
+         - The repository file system is displayed (which contains the files associated with the project such as code, data, text, images, etc.).
+            - Click through to a few of the files to preview them.
          - The README is automatically rendered underneath the file system. The README is a text file containing information about the repository that is typically the first file a visitor to your repository will see.
          - Above the file system is a set of buttons:
             - Branch (click to view the different branches)
@@ -31,7 +31,7 @@
             - Add file (click to add a new file to the repository)
             - Clone (click to clone the repository to your local workspace, open with the [GitHub Desktop](https://desktop.github.com/) app or download the .zip file)
       - Issues
-         - Click on the [Example Issue](https://github.com/rainsworth/intro-to-github/issues/18)
+         - Click on the [Example Issue](https://github.com/rainsworth/intro-to-github/issues/18).
          - Issues are suggested improvements, tasks or questions related to the repository.
          - Issues can be created by anyone (for public repositories), and are moderated by repository collaborators. 
          - Each issue contains its own discussion thread. 
@@ -45,6 +45,12 @@
          - The Files changed tab displays all the files that have been changed within the pull request and their associated "diffs" which are the difference in changes between two commits, or saved changes. The diff will visually describe what was added or removed from a file since its last commit.
       - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
       - Projects
+         - Projects are boards within GitHub that are made up of issues, pull requests, and notes that are categorized as cards in columns.
+         - They help you visualise your project workflow and enable project management.
+         - Click on [Introduction to GitHub](https://github.com/rainsworth/intro-to-github/projects/1).
+         - This project has a basic kanban template which tracks my tasks with To do, In progress, and Done columns.
+         - You can create cards and move them around to help visualise any bottlenecks in your development.
+         - You can also click on "Add cards" to the right of the project board to create cards from issues and pull requests.
       - Wiki
       - Security 
       - Insights
