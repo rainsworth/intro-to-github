@@ -4,16 +4,19 @@
 
 1. GitHub home page: https://github.com/ (sign up or log in!)
 2. GitHub dashboard: https://github.com/ (logged in)
+   - Your personal dashboard is the main hub of your activity on GitHub.
    - The dashboard might be confusing until we cover the topics related to repositories (such as issues, pull requests, etc.)
    - Therefore, we'll briefly see the dashboard and then come back to it after touring the user profile and a repository interfaces)
    - Click the icon in the top right corner and select "Your profile"
 3. GitHub profile: https://github.com/rainsworth
+   - This is the page that shows information about a user's activity on GitHub.
    - User profile information such as name, description, links and organisations can be seen in the left sidebar
    - The Overview tab displays the user's pinned repositories and contribution activity on GitHub
    - The Repositories tab displays a list of the user's repositories
    - The Projects and Packages tabs are beyond the scope of this session, but you can click the "Learn More" buttons to learn more about them
    - Click back to the Repositories tab and go to the `intro-to-github` repository
 4. GitHub repository: https://github.com/rainsworth/intro-to-github
+   - A repository (or "repo") is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
    - At the very top you will see the user and repository name displayed as `username/repository-name`
    - Underneath you will see a set of tabs labelled Code, Issues, Pull requests, etc. which we will navigate through now:
       - Code
@@ -34,6 +37,12 @@
          - Each issue contains its own discussion thread. 
          - You can also categorise an issue with labels, assign it to someone and add to a project management board in the right sidebar.
       - Pull requests
+         - Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. 
+         - Like issues, pull requests each have their own discussion forum which you can see in the Conversation tab.
+         - You can also categorise a pull request with labels, assign it to someone, assign a reviewer, add to a project management board and link to open issues in the right sidebar.
+         - The Commits tab displays the record of the specific changes commited along with who made them and when.
+         - The Checks tab is beyond the scope of this session. Checks are external processes, such as continuous integration builds, which run for each commit you make in a repository. For more information, see "[About status checks](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-status-checks)."
+         - The Files changed tab displays all the files that have been changed within the pull request and their associated "diffs" which are the difference in changes between two commits, or saved changes. The diff will visually describe what was added or removed from a file since its last commit.
       - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
       - Projects
       - Wiki
@@ -68,6 +77,7 @@ Definitions are from the [GitHub Glossary](https://help.github.com/en/github/get
 - **merge** - Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a "pull request" (which can be thought of as a request to merge), or via the command line. A merge can be done through a pull request via the GitHub.com web interface if there are no conflicting changes, or can always be done via the command line.
 - **merge conflict** - A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.
 - **open source** - Open source software is software that can be freely used, modified, and shared (in both modified and unmodified form) by anyone. Today the concept of "open source" is often extended beyond software, to represent a philosophy of collaboration in which working materials are made available online for anyone to fork, modify, discuss, and contribute to.
+- **profile** - The page that shows information about a user's activity on GitHub.
 - **project board** - Boards within GitHub that are made up of issues, pull requests, and notes that are categorized as cards in columns.
 - **pull request** - Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum.
 - **README** - A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
