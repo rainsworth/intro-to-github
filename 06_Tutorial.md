@@ -1,9 +1,9 @@
 # Tutorial to set up a GitHub repository/project
 
-Outline:
-   - Hello World tutorial: https://guides.github.com/activities/hello-world/
-   - Contribute to @OpenDataManchester's Pick N Mix repository: https://github.com/OpenDataManchester/training-and-resources
-   - Create a personal website using GitHub Pages tutorial: https://guides.github.com/features/pages/
+Demonstrations / tutorials:
+- [Hello World](#hello-world)
+- [Contributing to another user's repository](#contributing-to-another-users-repository)
+- [Creating a personal website using GitHub Pages](#creating-a-personal-website-using-github-pages)
 
 
 ## Hello World
@@ -33,7 +33,6 @@ Demonstration (steps are from the [GitHub Guides Hello World](https://guides.git
    ```
    When you’re done with your message, click `Create pull request`!
 10. In this final step, it’s time to bring the changes together and **merge** your `readme-edits` branch into the `master` branch. Click the green `Merge pull request` button to merge the changes into `master` and click `Confirm merge`. (You can then go ahead and delete the branch, since its changes have been incorporated, with the `Delete branch` button.) Congratulations, you've opened and merged your first pull request! :tada:
-
 
 
 ## Contributing to another user's repository
@@ -77,3 +76,20 @@ Demonstration:
    This pull request adds the list of resources for Pick N Mix 9: an introduction to Github.
    ```
 11. Click `Create pull request` to request that the repository owners pull your contributions into their project. Congratulations, you've contributed to an open source project! :tada:
+
+
+## Creating a personal website using GitHub Pages
+
+For a beginners guide to creating a personal website using GitHub Pages, check out the [GitHub Guides Getting Started with GitHub Pages](https://guides.github.com/features/pages/) tutorial. If you want to practice more of the concepts that we covered in the previous demonstration, you can follow the steps outlined below.
+
+1. Identify what information/sections/tabs/pages you want to include on your website (e.g. an About page, an events page, a list of projects, a blog, contact info, etc.).
+2. Choose a theme (e.g. from [http://jekyllthemes.org/](http://jekyllthemes.org/)) that you like that will best present that information.
+3. Go to your chosen theme's GitHub **repository** (for example I used the [Moon](https://github.com/TaylanTatli/Moon) theme for my GitHub website that you can view here: https://rainsworth.github.io
+4. **Fork** the theme **repository**. This copies the contents of the theme to your account so that you can edit and use while maintaining credit to the theme authors.
+5. Go to the `Settings` tab to update the repository name to `username.github.io` (replacing "username" with your GitHub username) and enable GitHub Pages by selecting a permitted branch (usually `master` or `gh-pages`) as a source for your webpage. GitHub will then indicate where your site is published in a green notification box (in this case, at https://username.github.io where "username" is your GitHub username).
+6. Return to the `Code` tab and edit the `_config.yml` file to point to your repository, change the title and any other user information.
+7. Edit the `README` to include information about the website or project repository (read more about `README` files [here](https://help.github.com/articles/about-readmes/)).
+8. **Make your changes**! In this case, add or change elements to the website as you see fit (you can add relevant information to the About page, add your projects to the Projects page, add blog posts to Posts, etc.). 
+9. Once you're happy with your changes, submit a **pull request**. 
+10. **Merge** the **pull request** and check out your website! :tada:
+
