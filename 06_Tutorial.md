@@ -14,6 +14,26 @@ We will first work through the [GitHub Guides Hello World](https://guides.github
 - Make changes to a file and **push** them to GitHub as **commits**
 - Open and **merge** a **pull request**
 
+Demonstration (steps are from the [GitHub Guides Hello World](https://guides.github.com/activities/hello-world/) tutorial, see the guide for full context, screenshots, and further instructions):
+1. To create a new **repository**, click the `+` in the upper right corner next to your avatar or identicon and then select `New repository`.
+2. Name your **repository** `hello-world`, write a short description, check the box to `Initialize this repository with a README`, and then click `Create repository`.
+3. We can now view our new **repository**. By default, the repository has one **branch** named `master` which is considered to be the definitive branch (although [GitHub is working on changing it to a neutral term](https://www.bbc.co.uk/news/technology-53050955) such as `main`). We use branches to experiment and make edits before committing them to the default branch. To create a new branch, click the drop down at the top of the file list that says `branch: master`. Type a branch name, `readme-edits`, into the new branch text box and select `Create branch: readme-edits`.
+4. We are now viewing the `readme-edits` **branch** of our **repository** which for now looks just like our default branch - but not for long as we are going to make changes to the README. Click the `README.md` file.
+5. Click the pencil icon in the upper right corner of the file view to edit. In the editor, add a short blurb such as
+   ```
+   I am currently demonstrating how to create and use a **repository**, start and manage a new **branch**, and make changes to a file and **push** them to GitHub as **commits**.
+   ```
+   Once I've added my changes I can scroll to the bottom to add a meaningful **commit** message that describes the changes and then click the `Commit changes` button. These changes will be made to just the README file on the `readme-edits` **branch**, so now this branch contains content that’s different from the default branch.
+6. Once I preview and am happy with my changes on the `readme-edits` **branch**, it is time to open a **pull request** to **merge** these changes into the default branch. Click on the `Pull Request` tab at the top of the repo, then from the Pull Request page, click the green `New pull request` button. (Alternatively, you can take advantage of GitHub's more recent features. There should be a notification highlighted in yellow that indicates `readme-edits had recent pushes` with a green `Compare & pull request` button which you can click to skip step 7.)
+7. I am now on a page titled "Comparing changes". In the `compare` box, select the **branch** you made, `readme-edits`, to compare with `base: master` (the original). Pay careful attention to the direction of the arrow when choosing how to compare branches.
+8. The Comparing changes page now displays the list of **commits** and the files changed. If there are no conflicts with the original **branch**, it will say ` Able to merge. These branches can be automatically merged.` Look over the changes in the diffs and make sure they’re what you want to submit. When you’re satisfied that these are the changes you want to submit, click the big green `Create pull request` button. 
+9. A text box will open prompting me to leave a comment about my **pull request**. Give your pull request a title and write a brief description of your changes. I will leave the following comment:
+   ```
+   This pull request adds information about the demonstration to the README.
+   ```
+   When you’re done with your message, click `Create pull request`!
+10. In this final step, it’s time to bring the changes together and **merge** your `readme-edits` branch into the `master` branch. Click the green `Merge pull request` button to merge the changes into `master` and click `Confirm merge`. (You can then go ahead and delete the branch, since its changes have been incorporated, with the `Delete branch` button.) Congratulations, you've opened and merged your first pull request! :tada:
+
 
 
 ## Contributing to another user's repository
@@ -55,6 +75,5 @@ Demonstration:
 10. A text box will open prompting me to leave a comment about my **pull request**. It is good practice to rename with a more meaningful title and describe to the repository owners what changes I am proposing and why to help them assess my contributions. I will leave the following comment: 
    ```
    This pull request adds the list of resources for Pick N Mix 9: an introduction to Github.
-   ``` 
+   ```
 11. Click `Create pull request` to request that the repository owners pull your contributions into their project. Congratulations, you've contributed to an open source project! :tada:
-
