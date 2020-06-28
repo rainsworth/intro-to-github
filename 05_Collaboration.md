@@ -6,6 +6,13 @@ There are two main types of [collaborative development models](https://help.gith
 1. In the *fork and pull model*, anyone can fork an existing repository and push changes to their personal fork. You do not need permission to the source repository to push to a user-owned fork. This model is popular with open source projects as it reduces the amount of friction for new contributors and allows people to work independently without upfront coordination.
 2. In the *shared repository model*, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. This model is more prevalent with small teams and organizations collaborating on private projects.
 
+Below we'll cover:
+- [Project Collaborators](#project-collaborators)
+- [Issues and Pull requests](#issues-and-pull-requests)
+- [Community Profile](#community-profile)
+- [Projects](#projects)
+- [Wikis](#wikis)
+
 
 ## Project Collaborators
 
