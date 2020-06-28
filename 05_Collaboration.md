@@ -1,34 +1,28 @@
 # GitHub for collaboration and best practices
 
-Outline:
-   - Invite Collaborators via `Settings` > `Manage Access`
-   - Issues
-   - Pull Requests
-   - Work through the Community Profile checklist via `Insights` > `Community`
-      - Description
-      - README
-      - Code of Conduct
-      - Contributing guidelines
-      - License
-      - Issue templates
-      - Pull Request templates
-   - Projects
-   - Wiki
-
+There are two main types of [collaborative development models](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-collaborative-development-models): 
+1. In the *fork and pull model*, anyone can fork an existing repository and push changes to their personal fork. You do not need permission to the source repository to push to a user-owned fork. This model is popular with open source projects as it reduces the amount of friction for new contributors and allows people to work independently without upfront coordination.
+2. In the *shared repository model*, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. This model is more prevalent with small teams and organizations collaborating on private projects.
 
 ## Project Collaborators
 
+You can invite users to become collaborators to your personal repository, which grants them read/write access to the project (shared repository model). 
+
 - [Inviting collaborators to a personal repository](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+- [Collaborator access on a repository owned by a user account](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository#collaborator-access-on-a-repository-owned-by-a-user-account)
 
 ## Issues and Pull requests
 
+Issues and pull requests facilitate [discussions on GitHub](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-conversations-on-github#discussions-on-github). Issues are useful for discussing specific details of a project such as bug reports and planned improvements. Pull requests allow you to comment directly on proposed changes. 
+
 - [Collaborating with issues and pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests)
 - [Managing your work with issues](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues)
+- [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
 
 
 ## Community Profile
 
-GitHub has created a Community Profile checklist to help make sure your project meets the recommended community standards to help people use and contribute to your project. You can read more [About community profiles for public repositories](https://help.github.com/en/github/building-a-strong-community/about-community-profiles-for-public-repositories), [Starting an Open Source Project](https://opensource.guide/starting-a-project/) and [Building Welcoming Communities](https://opensource.guide/building-community/).
+GitHub has created a Community Profile checklist to help make sure your project meets the recommended community standards to help people use and contribute to your project. You can read more [About community profiles for public repositories](https://help.github.com/en/github/building-a-strong-community/about-community-profiles-for-public-repositories), [Starting an Open Source Project](https://opensource.guide/starting-a-project/) and [Building Welcoming Communities](https://opensource.guide/building-community/). You can also take the [Community starter kit](https://lab.github.com/githubtraining/community-starter-kit) course in the GitHub Learning Lab to learn about the informal standards the community has adopted to make it easier to find and contribute to projects.
 
 You can find the Community Profile checklist via the `Insights` tab and then select `Community` in the left sidebar. It checks to see if a project includes recommended community health files, such as
 - [ ] Description
@@ -39,7 +33,7 @@ You can find the Community Profile checklist via the `Insights` tab and then sel
 - [ ] Issue templates
 - [ ] Pull Request templates
 
-I have listed resources below to help you get started on these files:
+I have listed [definitions](https://help.github.com/en/github/getting-started-with-github/github-glossary) and resources below to help you get started on these files:
 - **Description**: Add an optional short description about the repository which will be displayed in the right sidebar of the `Code` tab.
 - **README**: A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
    - [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
@@ -70,6 +64,6 @@ I have listed resources below to help you get started on these files:
 - [Managing project boards](https://help.github.com/en/github/managing-your-work-on-github/managing-project-boards)
 - [Tracking the progress of your work with project boards](https://help.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards)
 
-### Wikis
+## Wikis
 
 - [Documenting your project with wikis](https://help.github.com/en/github/building-a-strong-community/documenting-your-project-with-wikis)
