@@ -1,6 +1,6 @@
-# Tutorial to set up a GitHub repository/project
+# Using GitHub Demonstration
 
-Demonstrations / tutorials:
+Table of Contents:
 - [Hello World](#hello-world)
 - [Contributing to another user's repository](#contributing-to-another-users-repository)
 - [Creating a personal website using GitHub Pages](#creating-a-personal-website-using-github-pages)
@@ -80,7 +80,7 @@ Demonstration:
 
 ## Creating a personal website using GitHub Pages
 
-For a beginners guide to creating a personal website using GitHub Pages, check out the [GitHub Guides Getting Started with GitHub Pages](https://guides.github.com/features/pages/) tutorial. If you want to practice more of the concepts that we covered in the previous demonstration, you can follow the steps outlined below.
+For a beginners guide to creating a personal website using GitHub Pages, check out the [GitHub Guides Getting Started with GitHub Pages](https://guides.github.com/features/pages/) tutorial and the [GitHub Pages](https://lab.github.com/githubtraining/github-pages) course on GitHub Learning Lab. If you want to practice more of the concepts that we covered in the previous demonstration, you can follow the steps outlined below.
 
 1. Identify what information/sections/tabs/pages you want to include on your website (e.g. an About page, an events page, a list of projects, a blog, contact info, etc.).
 2. Choose a theme (e.g. from [http://jekyllthemes.org/](http://jekyllthemes.org/)) that you like that will best present that information.
