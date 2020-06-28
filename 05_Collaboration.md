@@ -1,8 +1,11 @@
 # GitHub for collaboration and best practices
 
+At the heart of GitHub is collaboration. The [GitHub flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow) was developed for collaboration on projects. To make it work for teams regardless of their size or technical expertise, GitHub made sure each step in their workflow can be completed within the web-based interface.
+
 There are two main types of [collaborative development models](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-collaborative-development-models): 
 1. In the *fork and pull model*, anyone can fork an existing repository and push changes to their personal fork. You do not need permission to the source repository to push to a user-owned fork. This model is popular with open source projects as it reduces the amount of friction for new contributors and allows people to work independently without upfront coordination.
 2. In the *shared repository model*, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. This model is more prevalent with small teams and organizations collaborating on private projects.
+
 
 ## Project Collaborators
 
@@ -10,6 +13,7 @@ You can invite users to become collaborators to your personal repository, which 
 
 - [Inviting collaborators to a personal repository](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
 - [Collaborator access on a repository owned by a user account](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository#collaborator-access-on-a-repository-owned-by-a-user-account)
+
 
 ## Issues and Pull requests
 
@@ -58,12 +62,17 @@ I have listed [definitions](https://help.github.com/en/github/getting-started-wi
    - [Using templates to encourage useful issues and pull requests](https://help.github.com/en/github/building-a-strong-community/using-templates-to-encourage-useful-issues-and-pull-requests)
 
 
-
 ## Projects
+
+[Project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) on GitHub help you organize and prioritize your work. They are made up of issues, pull requests, and notes that are categorized as cards in columns of your choosing. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs.
 
 - [Managing project boards](https://help.github.com/en/github/managing-your-work-on-github/managing-project-boards)
 - [Tracking the progress of your work with project boards](https://help.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards)
 
+
 ## Wikis
 
+Every GitHub repository comes equipped with a section for hosting documentation, called a [wiki](https://help.github.com/en/github/building-a-strong-community/about-wikis). You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation.
+
 - [Documenting your project with wikis](https://help.github.com/en/github/building-a-strong-community/documenting-your-project-with-wikis)
+- [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
