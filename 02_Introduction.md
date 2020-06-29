@@ -1,5 +1,7 @@
 # A friendly introduction to Version Control, Git and GitHub
 
+Before we can dive into using GitHub, we need to talk about version control and Git.
+
 ## Version control
 
 **Version control** is a way of tracking changes to a document or collection of documents, and helps to solve one of the main challenges in working with many people on a single project. Your collaborators may be spread around the world or working in the same room; they may be working simultaneously or asynchronously. No matter how your team is organised, the work of many contributors needs to be wrangled into a single project. Version control manages this process: it stores a history of changes and who made them, allowing you to revert or go back to earlier versions of those documents, and understand how contributions by different contributors have changed the project over time. 
@@ -85,32 +87,32 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 ```
 
-When you make a commit to save your work, Git creates a unique ID (called the "SHA" or "hash" which is a 40-character checksum hash that identifies the commit) that allows you to keep record of the specific changes commited along with who made them and when. 
-
-One barrier to using Git is that it can be difficult to learn as much of the terminology will be unfamiliar to newcomers. However, most users will use the same small set of commands over and over to version control their projects, so the best way to learn is to dive right in! However, if you do not yet want to use the command line and Git directly, you can begin with a more friendly to use graphical interface such as **GitHub**. 
+Prefer using a web interface to the command line? There are many offerings of Git repositories as a service, such as [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/) and [GitLab](https://about.gitlab.com/) - we are going to focus on the most widely used: **GitHub**. 
 
 
 ## GitHub
 
-**GitHub** is a platform for hosting and collaborating on Git repositories, and adds a web-based social and user interface to version control. It facilitates communication and discussion, promotes open source and collaboration, and lets you and others work together on projects from anywhere.
+**GitHub** is a platform for hosting and collaborating on Git repositories, and adds a web-based social and user interface to version control. GitHub provides a structure and space for communicating about collaborative work on open projects (although you can also have private repositories too). With bit of set-up, and a good workflow, you can make your project accessible and transparent, and create a respectful and productive working environment for your collaborators.
 
-The basic GitHub workflow (called the "[GitHub flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow)") is built around core Git commands and has six steps, each with distinct benefits when implemented:
+The basic GitHub workflow (called the "[GitHub flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow)") is built around core Git commands, and each step has distinct benefits when implemented:
 
 1. Create a **branch** from the **repository**.
    - A branch is a copy of a repo that is contained within the orignal repo. Branches are used to work on a project features without altering the original or base repo. 
-2. Add **commits**: create, edit, rename, move, or delete files.
+2. Add **commits**: make changes to (such as create, edit, rename, move, or delete) files in your repository.
 3. Open a **pull request** from your branch with your proposed changes to kick off a discussion.
    - A pull request is a request to add a commit or collection of commits to a repository. 
 4. Discuss, review and make changes (add more commits) on your branch as needed. Your pull request will update automatically.
-5. **Merge** the pull request once the branch is ready to be merged.
+5. **Merge** the pull request once you are done making changes to the branch.
    - Merging is the act of incorporating new changes (commits) into a repository.
-6. Tidy up your branches using the delete button in the pull request or on the branches page.
 
 ![GitHub Flow](https://raw.githubusercontent.com/rainsworth/intro-to-github/rainsworth-introduction/assets/GitHubFlow.png)
 
+One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the GitHub Flow, it will transform the way that you work - and the best way to learn is to dive right in! 
 
 ## Attribution
 
 The content in this file has been adapted from:
 * Mozilla Science Lab's [Study Group Orientation](https://mozillascience.github.io/study-group-orientation/), Licensed [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
+* Mozilla Science Lab's [GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#introduction), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * Software Carpentry's [Version Control with Git](http://swcarpentry.github.io/git-novice/), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* GitHub [Training Kit: Cheatsheets](https://github.github.com/training-kit/), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
