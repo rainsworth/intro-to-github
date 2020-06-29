@@ -1,5 +1,7 @@
 # GitHub Interface Tour and Jargon Busting
 
+One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the [GitHub Flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow), it will transform the way that you work - and the best way to learn is to dive right in!
+
 ## Interface Tour
 
 1. GitHub home page: https://github.com/ (sign up or log in!)
@@ -86,7 +88,7 @@ Definitions are from the [GitHub Glossary](https://help.github.com/en/github/get
 - <img src="https://img.icons8.com/small/32/000000/git.png"/> **Git** - Git is an open source program for tracking changes in text files. It was written by the author of the Linux operating system, and is the core technology that GitHub, the social and user interface, is built on top of.
 - **GitHub Pages** - Also referred to as Pages. A static site hosting service designed to host your personal, organization, or project pages directly from a GitHub repository.
 - <img src="https://img.icons8.com/material-outlined/24/000000/box-important.png"/> **issue** - Issues are suggested improvements, tasks or questions related to the repository. Issues can be created by anyone (for public repositories), and are moderated by repository collaborators. Each issue contains its own discussion thread. You can also categorize an issue with labels and assign it to someone.
-- **license** - A document that you can include with your project to let people know what they can and can't do with your source code.
+- <img src="https://img.icons8.com/windows/32/000000/scales.png"/> **license** - A document that you can include with your project to let people know what they can and can't do with your source code.
 - <img src="https://img.icons8.com/material-outlined/24/000000/markdown.png"/> **Markdown** - Markdown is an incredibly simple semantic file format, not too dissimilar from .doc, .rtf and .txt. Markdown makes it easy for even those without a web-publishing background to write prose (including with links, lists, bullets, etc.) and have it displayed like a website. GitHub supports Markdown and uses a particular form of Markdown called GitHub Flavored Markdown. See [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) or [Getting started with writing and formatting on GitHub](https://help.github.com/en/articles/getting-started-with-writing-and-formatting-on-github).
 - **master** - The default development branch. Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. In most cases, this contains the local development, though that is purely by convention and is not required.
    - Although the current default development branch on GitHub is the `master` branch, [GitHub is working on changing it to a neutral term](https://www.bbc.co.uk/news/technology-53050955) such as `main`.
@@ -100,6 +102,6 @@ Definitions are from the [GitHub Glossary](https://help.github.com/en/github/get
 - **remote** - This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
 - <img src="https://img.icons8.com/material-outlined/32/000000/repository.png"/> **repository** - A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 - **review** - Reviews allow others with access to your repository to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged.
-- **star** - A bookmark or display of appreciation for a repository. Stars are a manual way to rank the popularity of projects.
-- **watch** - You can watch a repository or issue to receive notifications when updates are made to an issue or pull request.
+- <img src="https://img.icons8.com/material-outlined/24/000000/star--v2.png"/> **star** - A bookmark or display of appreciation for a repository. Stars are a manual way to rank the popularity of projects.
+- <img src="https://img.icons8.com/material-outlined/24/000000/visible.png"/> **watch** - You can watch a repository or issue to receive notifications when updates are made to an issue or pull request.
 - **Wiki** - A section for hosting wiki style documentation on a GitHub repository.
