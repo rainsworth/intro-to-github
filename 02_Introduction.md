@@ -105,7 +105,7 @@ The basic GitHub workflow (called the "[GitHub flow](https://help.github.com/en/
 5. **Merge** the pull request once you are done making changes to the branch.
    - Merging is the act of incorporating new changes (commits) into a repository.
 
-![GitHub Flow](https://raw.githubusercontent.com/rainsworth/intro-to-github/rainsworth-introduction/assets/GitHubFlow.png)
+![GitHub Flow](assets/GitHubFlow.png)
 
 One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the GitHub Flow, it will transform the way that you work - and the best way to learn is to dive right in! 
 
