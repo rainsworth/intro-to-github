@@ -85,10 +85,28 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 ```
 
+When you make a commit to save your work, Git creates a unique ID (called the "SHA" or "hash" which is a 40-character checksum hash that identifies the commit) that allows you to keep record of the specific changes commited along with who made them and when. 
+
 One barrier to using Git is that it can be difficult to learn as much of the terminology will be unfamiliar to newcomers. However, most users will use the same small set of commands over and over to version control their projects, so the best way to learn is to dive right in! However, if you do not yet want to use the command line and Git directly, you can begin with a more friendly to use graphical interface such as **GitHub**. 
 
 
 ## GitHub
+
+**GitHub** is a platform for hosting and collaborating on Git repositories, and adds a web-based social and user interface to version control. It facilitates communication and discussion, promotes open source and collaboration, and lets you and others work together on projects from anywhere.
+
+The basic GitHub workflow (called the "[GitHub flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow)") is built around core Git commands and has six steps, each with distinct benefits when implemented:
+
+1. Create a **branch** from the **repository**.
+   - A branch is a copy of a repo that is contained within the orignal repo. Branches are used to work on a project features without altering the original or base repo. 
+2. Add **commits**: create, edit, rename, move, or delete files.
+3. Open a **pull request** from your branch with your proposed changes to kick off a discussion.
+   - A pull request is a request to add a commit or collection of commits to a repository. 
+4. Discuss, review and make changes (add more commits) on your branch as needed. Your pull request will update automatically.
+5. **Merge** the pull request once the branch is ready to be merged.
+   - Merging is the act of incorporating new changes (commits) into a repository.
+6. Tidy up your branches using the delete button in the pull request or on the branches page.
+
+
 
 
 ## Attribution
