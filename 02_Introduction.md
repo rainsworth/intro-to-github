@@ -106,7 +106,7 @@ The basic GitHub workflow (called the "[GitHub flow](https://help.github.com/en/
    - Merging is the act of incorporating new changes (commits) into a repository.
 6. Tidy up your branches using the delete button in the pull request or on the branches page.
 
-
+![GitHub Flow](https://raw.githubusercontent.com/rainsworth/intro-to-github/rainsworth-introduction/assets/GitHubFlow.png)
 
 
 ## Attribution
