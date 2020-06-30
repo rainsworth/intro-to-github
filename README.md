@@ -19,8 +19,8 @@ Repo, branch, clone, fork, pull request, merge - what? One of the biggest barrie
 2. [A friendly introduction to Version Control, Git and GitHub](02_Introduction.md)
 3. [Examples of how GitHub is used](03_GitHubExamples.md)
 4. [GitHub interface tour and jargon busting](04_GitHubTour.md)
-5. [GitHub for collaboration and best practices](05_Collaboration.md)
-6. [Using GitHub Demonstration](06_Demonstration.md)
+5. [Using GitHub Demonstration](05_Demonstration.md)
+6. [GitHub for collaboration and best practices](06_Collaboration.md)
 7. [More resources](07_Resources.md)
 
 
