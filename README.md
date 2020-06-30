@@ -21,7 +21,7 @@ Repo, branch, clone, fork, pull request, merge - what? One of the biggest barrie
 4. [GitHub interface tour and jargon busting](04_GitHubTour.md)
 5. [Using GitHub Demonstration](05_Demonstration.md)
 6. [GitHub for collaboration and best practices](06_Collaboration.md)
-7. [More resources](07_Resources.md)
+7. [More resources](07_MoreResources.md)
 
 
 ## License
