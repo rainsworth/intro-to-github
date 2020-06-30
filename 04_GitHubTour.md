@@ -30,8 +30,10 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
          - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package, contributor and environment information).
          - The repository file system is displayed in the centre (which contains the files associated with the project such as code, data, text, images, etc.).
             - Click through to a few of the files to preview them.
+            - Markdown (`.md` file): https://github.com/rainsworth/intro-to-github/blob/main/example_files/LoremIpsum.md
+               - Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform (GitHub automatically renders anything written in Markdown such as specific files like the README, or your comments on pull requests and issues).
          - The README is automatically rendered underneath the file system. The README is a text file containing information about the repository that is typically the first file a visitor to your repository will see.
-            - It is general practice to compose the README in Markdown (and save as a `README.md` file), a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform (GitHub automatically renders anything written in Markdown such as specific files like the README, or your comments on pull requests and issues).
+            - It is general practice to compose the README in Markdown and save as `README.md`.
          - Above the file system is a set of buttons:
             - `Branch` (click to view the different development branches of the repository)
                - The current default base branch on GitHub is the `master` branch, although [GitHub is working on changing it to a neutral term](https://www.bbc.co.uk/news/technology-53050955) such as `main`.
