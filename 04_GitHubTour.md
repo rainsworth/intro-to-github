@@ -47,6 +47,7 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
          - Each issue contains its own discussion thread. 
          - You can also categorise an issue with labels, assign it to someone and add to a project management board in the right sidebar.
       - Pull requests
+         - Click on the [Example pull request](https://github.com/rainsworth/intro-to-github/pull/36).
          - Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's owner. 
          - Like issues, pull requests each have their own discussion forum which you can see in the Conversation tab.
          - You can also categorise a pull request with labels, assign it to someone, assign a reviewer, add to a project management board and link to open issues in the right sidebar.
@@ -55,9 +56,9 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
          - The Files changed tab displays all the files that have been changed within the pull request and their associated "diffs" which are the difference in changes between two commits, or saved changes. The diff will visually describe what was added or removed from a file since its last commit.
       - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
       - Projects
+         - Click on the [Example project](https://github.com/rainsworth/intro-to-github/projects/2).
          - Projects are boards within GitHub that are made up of issues, pull requests, and notes that are categorized as cards in columns.
          - They help you visualise your project workflow and enable project management.
-         - Click on the [Introduction to GitHub](https://github.com/rainsworth/intro-to-github/projects/1) project.
          - This project has a basic kanban template which tracks my tasks with To do, In progress, and Done columns.
          - You can create cards and move them around to help visualise any bottlenecks in your development.
          - You can also click on "Add cards" to the right of the project board to create cards from issues and pull requests.
