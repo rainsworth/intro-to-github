@@ -1,9 +1,9 @@
 # Outline
 
-1. About me
-2. A friendly introduction to version control, git and GitHub
-3. Examples of how GitHub is used
-4. GitHub interface tour and jargon busting
-5. GitHub for collaboration and best practices
-6. Tutorial to set up a GitHub repository/project
-7. More resources
+1. [About me](01_AboutMe.md)
+2. [A friendly introduction to Version Control, Git and GitHub](02_Introduction.md)
+3. [Examples of how GitHub is used](03_GitHubExamples.md)
+4. [GitHub interface tour and jargon busting](04_GitHubTour.md)
+5. [Using GitHub Demonstration](05_Demonstration.md)
+6. [GitHub for collaboration and best practices](06_Collaboration.md)
+7. [More resources](07_MoreResources.md)
