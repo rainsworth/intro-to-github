@@ -34,6 +34,7 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
             - It is general practice to compose the README in Markdown (and save as a `README.md` file), a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform (GitHub automatically renders anything written in Markdown such as specific files like the README, or your comments on pull requests and issues).
          - Above the file system is a set of buttons:
             - `Branch` (click to view the different development branches of the repository)
+               - The current default base branch on GitHub is the `master` branch, although [GitHub is working on changing it to a neutral term](https://www.bbc.co.uk/news/technology-53050955) such as `main`.
             - `Go to file` (click to easily search for a file within the repository)
             - `Add file` (click to add a new file to the repository)
             - `Clone` (click to clone the repository to your local workspace, open with the [GitHub Desktop](https://desktop.github.com/) app or download the .zip file)
