@@ -109,6 +109,16 @@ The basic GitHub workflow (called the "[GitHub flow](https://help.github.com/en/
 
 One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the GitHub Flow, it will transform the way that you work - and the best way to learn is to practice. 
 
+
+## tl;dr
+
+- Version control is like an unlimited ‘undo’ button or time machine - it is very difficult to lose or break something because you can always revert back to a previous version.
+- Version control allows many people to work together in parallel.
+- Git is a command-line version control software that tracks all changes to a repository (a collection of documents).
+- Revisions or saved changes to documents in a repository are called commits. 
+- GitHub is a service that hosts your repositories online and helps you work with contributors. GitHub adds a web-based social and user interface to version control. 
+
+
 ## Attribution
 
 The content in this file has been adapted from:
