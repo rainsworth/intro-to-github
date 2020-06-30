@@ -28,3 +28,7 @@ Social channels:
 - HER+Data MCR on Twitter: https://twitter.com/herplusdatamcr
 - HER+Data MCR on LinkedIn: https://www.linkedin.com/company/her-data-mcr
 - HER+Data MCR on Youtube: https://www.youtube.com/channel/UCbkseOUhsxFZNgzMc404f4Q
+
+---
+
+Next: [A friendly introduction to Version Control, Git and GitHub](02_Introduction.md)
