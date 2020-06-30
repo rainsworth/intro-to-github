@@ -126,3 +126,7 @@ The content in this file has been adapted from:
 * Mozilla Science Lab's [GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#introduction), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * Software Carpentry's [Version Control with Git](http://swcarpentry.github.io/git-novice/), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * GitHub [Training Kit: Cheatsheets](https://github.github.com/training-kit/), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+Next: [Examples of how GitHub is used](03_GitHubExamples.md)
