@@ -16,11 +16,11 @@ Even if you’re working independently, you’re probably going to make a lot of
 
 ![repo changes image](https://raw.githubusercontent.com/mozillascience/study-group-onboarding/master/images/gh05.png)
 
-As you make changes, you might make multiple copies of your files to preserve a version that's working while you try to improve it or add functionality, but keeping track of all these versions and the differences between them becomes difficult. It also seems ridiculous to have multiple nearly-identical versions of the same document. (We want to avoid [this situation](http://phdcomics.com/comics/archive.php?comicid=1531).) If you work with others, maybe you email the different versions back and forth, renaming the file each time (`code.py`, `code_rachael-comments.py`, `code-v2_rachael-comments.py`, and so on...). Whether you work alone or with others, if this situation looks familiar then you could benefit from version control. 
+As you make changes, you might make multiple copies of your files to preserve a version that's working while you try to improve it or add functionality, but keeping track of all these versions and the differences between them becomes difficult. It also seems ridiculous to have multiple nearly-identical versions of the same document. (We want to avoid [this situation](http://phdcomics.com/comics/archive.php?comicid=1531).) If you work with others, maybe you email the different versions back and forth, renaming the file each time (`code.py`, `code_rachael-comments.py`, `code-v2_rachael-comments.py`, `code-v2_working.py`, `code-v2_final-USE-THIS.py`, and so on...). Whether you work alone or with others, if this situation looks familiar then you could benefit from version control. 
 
 ![filenames image](https://raw.githubusercontent.com/mozillascience/study-group-onboarding/master/images/gh06.png)
 
-Version control systems start with a base version of the document and then records changes made each step of the way. Like a time machine, it can take you back to the moment your document was created, or to any other point in time when you or a collaborator saved changes to that document. With version control, you don’t save multiple copies of the document, you just save the timeline of changes of the document.
+Version control systems start with a base version of the document and then record changes made each step of the way. Like a time machine, it can take you back to the moment your document was created, or to any other point in time when you or a collaborator saved changes to that document. With version control, you don’t save multiple copies of the document, you just save the timeline of changes of the document.
 
 ![timeline image](https://raw.githubusercontent.com/mozillascience/study-group-onboarding/master/images/gh07.png)
 
@@ -32,7 +32,7 @@ When we share and work on projects with collaborators, managing the changes, or 
 
 ![collab image](https://raw.githubusercontent.com/mozillascience/study-group-onboarding/master/images/gh09.png)
 
-And when we’re working with multiple collaborators, everybody needs to know and understand what commits are being incorporated into the repository and why, so good communication becomes very, very important. The great news is that there’s a piece of version control software to help us both manage and communicate with our collaborators about commits to our project, and that software is called **Git**.
+And when we’re working with multiple collaborators, everybody needs to know and understand what commits are being incorporated into the repository and why, so good communication also becomes very, very important. The great news is that there’s a piece of version control software to help us both manage and communicate with our collaborators about commits to our project, and that software is called **Git**.
 
 
 ## Git
@@ -87,7 +87,7 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 ```
 
-Prefer using a web interface to the command line? There are many offerings of Git repositories as a service, such as [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/) and [GitLab](https://about.gitlab.com/) - we are going to focus on the most widely used: **GitHub**. 
+This looks kind of scary, especially if you are a beginner. We can spot the `commit` command, which looks familiar - but clone? branch? merge? fetch? what? In general, you will only use a small subset of these commands over and over, so it helps to have a [cheatsheet](https://github.github.com/training-kit/) while you become familiar with the workflow. But it might be easier to get started with these concepts through a web interface instead of the command line. There are many offerings of Git repositories as a service, such as [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/) and [GitLab](https://about.gitlab.com/) - we are going to focus on the most widely used: **GitHub**. 
 
 
 ## GitHub
@@ -107,7 +107,7 @@ The basic GitHub workflow (called the "[GitHub flow](https://help.github.com/en/
 
 ![GitHub Flow](assets/GitHubFlow.png)
 
-One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the GitHub Flow, it will transform the way that you work - and the best way to learn is to dive right in! 
+One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the GitHub Flow, it will transform the way that you work - and the best way to learn is to practice. 
 
 ## Attribution
 
