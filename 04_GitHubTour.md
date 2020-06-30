@@ -1,6 +1,6 @@
 # GitHub Interface Tour and Jargon Busting
 
-One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the [GitHub Flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow), it will transform the way that you work - and the best way to learn is to dive right in!
+One barrier to using Git and GitHub is that it can seem difficult to learn, because a lot of the terminology will be unfamiliar to newcomers. However, once you get used to the [GitHub Flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow), it will transform the way that you work - and the best way to learn is to dive right in and click around! Oh, and practice.
 
 ## Interface Tour
 
@@ -9,7 +9,7 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
    - Your personal dashboard is the main hub of your activity on GitHub.
    - The dashboard might be confusing until we cover the topics related to repositories (such as issues, pull requests, etc.).
    - But in general, your dashboard provides easy access to your recent repositories and organisations (left sidebar), your recent activity and all activity from people you follow (centre column), and to explore featured repositories (right sidebar).
-   - Click the icon in the top right corner and select "Your profile".
+   - Click the icon (your GitHub profile image or avatar) in the top right corner and select "Your profile".
 3. GitHub profile: https://github.com/rainsworth
    - This is the page that shows information about a user's activity on GitHub.
    - User profile information such as name, description, links and organisations can be seen in the left sidebar.
@@ -20,45 +20,46 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
 4. GitHub repository: https://github.com/rainsworth/intro-to-github
    - A repository (or "repo") is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
    - At the very top you will see the user and repository name displayed as `username/repository-name`.
-   - Underneath and to the right you will see buttons that say "Watch", "Star" and "Fork".
-      - You can click "Watch" to watch a repository or issue to receive notifications when updates are made to an issue or pull request.
-      - You can click "Star" to bookmark or display appreciation for a repository. 
-      - You can click "Fork" to make a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository. You can also open a pull request in the upstream repository and keep your fork synced with the latest changes since both repositories are still connected.
+   - Underneath and to the right you will see buttons that say `Watch`, `Star` and `Fork`.
+      - You can click `Watch` to watch a repository or issue to receive notifications when updates are made to an issue or pull request.
+      - You can click `Star` to bookmark or display appreciation for a repository. 
+      - You can click `Fork` to make a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository. You can also open a pull request in the upstream repository and keep your fork synced with the latest changes since both repositories are still connected.
    - Underneath that you will see a set of tabs labelled Code, Issues, Pull requests, etc. which we will navigate through now:
       - Code
          - This is the tab where you can view and interact directly with the contents of the repository.
-         - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package and environment information).
-         - The repository file system is displayed (which contains the files associated with the project such as code, data, text, images, etc.).
+         - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package, contributor and environment information).
+         - The repository file system is displayed in the centre (which contains the files associated with the project such as code, data, text, images, etc.).
             - Click through to a few of the files to preview them.
          - The README is automatically rendered underneath the file system. The README is a text file containing information about the repository that is typically the first file a visitor to your repository will see.
+            - It is general practice to compose the README in Markdown (and save as a `README.md` file), a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform (GitHub automatically renders anything written in Markdown such as specific files like the README, or your comments on pull requests and issues).
          - Above the file system is a set of buttons:
-            - Branch (click to view the different branches)
-            - Go to file (click to easily search for a file within the repository)
-            - Add file (click to add a new file to the repository)
-            - Clone (click to clone the repository to your local workspace, open with the [GitHub Desktop](https://desktop.github.com/) app or download the .zip file)
+            - `Branch` (click to view the different development branches of the repository)
+            - `Go to file` (click to easily search for a file within the repository)
+            - `Add file` (click to add a new file to the repository)
+            - `Clone` (click to clone the repository to your local workspace, open with the [GitHub Desktop](https://desktop.github.com/) app or download the .zip file)
       - Issues
          - Click on the [Example Issue](https://github.com/rainsworth/intro-to-github/issues/18).
          - Issues are suggested improvements, tasks or questions related to the repository.
-         - Issues can be created by anyone (for public repositories), and are moderated by repository collaborators. 
+         - Issues can be created by anyone (for public repositories), and are moderated by the repository owner. 
          - Each issue contains its own discussion thread. 
          - You can also categorise an issue with labels, assign it to someone and add to a project management board in the right sidebar.
       - Pull requests
-         - Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. 
+         - Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's owner. 
          - Like issues, pull requests each have their own discussion forum which you can see in the Conversation tab.
          - You can also categorise a pull request with labels, assign it to someone, assign a reviewer, add to a project management board and link to open issues in the right sidebar.
-         - The Commits tab displays the record of the specific changes commited along with who made them and when.
+         - The Commits tab displays the record of the specific changes saved along with who made them and when.
          - The Checks tab is beyond the scope of this session. Checks are external processes, such as continuous integration builds, which run for each commit you make in a repository. For more information, see "[About status checks](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-status-checks)."
          - The Files changed tab displays all the files that have been changed within the pull request and their associated "diffs" which are the difference in changes between two commits, or saved changes. The diff will visually describe what was added or removed from a file since its last commit.
       - Actions are beyond the scope of this session, but you can learn more about [Getting started with GitHub Actions here](https://help.github.com/en/actions/getting-started-with-github-actions)
       - Projects
          - Projects are boards within GitHub that are made up of issues, pull requests, and notes that are categorized as cards in columns.
          - They help you visualise your project workflow and enable project management.
-         - Click on [Introduction to GitHub](https://github.com/rainsworth/intro-to-github/projects/1).
+         - Click on the [Introduction to GitHub](https://github.com/rainsworth/intro-to-github/projects/1) project.
          - This project has a basic kanban template which tracks my tasks with To do, In progress, and Done columns.
          - You can create cards and move them around to help visualise any bottlenecks in your development.
          - You can also click on "Add cards" to the right of the project board to create cards from issues and pull requests.
       - Wiki
-         - Wikis provide a place in your repository to lay out the roadmap of your project, show the current status, and document software better, together.
+         - Wikis provide a place in your repository to lay out the roadmap of your project, show the current status, and provide documentation.
       - Security 
          - The Security tab is where you set up security features for your repository.
       - Insights
