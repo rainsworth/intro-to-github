@@ -35,6 +35,21 @@ Suspendisse efficitur cursus euismod. Curabitur hendrerit odio eu eleifend aucto
 
 #### Header 4
 
-Suspendisse rutrum hendrerit nisi a dictum. Duis quis nibh elementum augue ultrices porttitor vitae tempus mi. Nunc sit amet diam vel ex mollis elementum et sed nulla. Aenean at purus venenatis, interdum tortor sed, pellentesque velit. Curabitur venenatis, ex at lacinia vehicula, felis elit elementum purus, at faucibus ex lectus sit amet nulla. In faucibus sapien nec nisi pharetra lobortis. Nunc lobortis pretium augue ut egestas. Phasellus non imperdiet urna. Fusce lacinia, elit vitae cursus blandit, sem orci vestibulum enim, eu vulputate nisi odio at quam.
+Suspendisse rutrum hendrerit nisi a dictum. Duis quis nibh elementum augue ultrices porttitor vitae tempus mi. Nunc sit amet diam vel ex mollis elementum et sed nulla. Aenean at purus venenatis, interdum tortor sed, pellentesque velit. Curabitur venenatis, ex at lacinia vehicula, felis elit elementum purus, at faucibus ex lectus sit amet nulla. In faucibus sapien nec nisi pharetra lobortis.
+
+```python
+# airfare.py
+age = int(input('How old are you? '))
+if age <= 2:
+    print(' free')
+elif 2 < age < 13:
+    print(' child fare)
+else:
+    print('adult fare')
+```
+
+Nunc lobortis pretium augue ut egestas. Phasellus non imperdiet urna. Fusce lacinia, elit vitae cursus blandit, sem orci vestibulum enim, eu vulputate nisi odio at quam.
 
 > Vivamus aliquet mauris elit, eget volutpat ipsum posuere sit amet. Integer eleifend odio quis purus hendrerit vehicula. Vivamus efficitur leo ac elit cursus fringilla. Nulla quis venenatis velit. Sed hendrerit lacus pulvinar urna dapibus efficitur. Nullam porttitor nisi a sagittis ultricies. Aliquam ut nulla commodo purus maximus vehicula. Aenean gravida id sapien sit amet vehicula. Cras consectetur tortor turpis, vitae hendrerit nunc vulputate sed. 
+
+
