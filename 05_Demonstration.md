@@ -93,3 +93,6 @@ For a beginners guide to creating a personal website using GitHub Pages, check o
 9. Once you're happy with your changes, submit a **pull request**. 
 10. **Merge** the **pull request** and check out your website! :tada:
 
+---
+
+Next: [GitHub for collaboration and best practices](06_Collaboration.md)
