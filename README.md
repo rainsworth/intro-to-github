@@ -10,7 +10,7 @@ Session information:
 
 ## Summary
 
-Repo, branch, clone, fork, pull request, merge - what? One of the biggest barriers to getting started with Git, GitHub and version control is the lingo - and we'll break it all down in a very beginner friendly session. We will introduce these concepts in the context of getting started with GitHub followed by examples of how GitHub is used. We'll tour the GitHub interface and do some jargon busting along the way. We'll talk about using GitHub for collaboration and best practice, and finish with demonstrations on setting up your own project on GitHub and contributing to others'.
+Repo, branch, clone, fork, pull request, merge - what? One of the biggest barriers to getting started with Git, GitHub and version control is the lingo - and we'll break it all down in a very beginner friendly session. We will introduce these concepts in the context of getting started with GitHub followed by examples of how GitHub is used. We'll tour the GitHub interface and do some jargon busting along the way. We'll demonstrate how to set up your own project on GitHub and contributing to others', and finish by talking about using GitHub for collaboration and best practices. 
 
 
 ## Outline
