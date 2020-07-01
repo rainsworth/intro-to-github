@@ -12,6 +12,9 @@ We have covered a lot in a short amount of time. Below I have listed resources t
 - [Using GitHub](https://mozillascience.github.io/study-group-orientation/3-using-github.html): Mozilla Science Lab's Study Group Orientation guide to using GitHub
 - [Mozilla Science Lab GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/)
 - [A gentle introduction to git and Github](https://lgatto.github.io/github-intro/)
+- [The Turing Way](https://the-turing-way.netlify.app)
+   - [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
+   - [Collaborating on GitHub/GitLab](https://the-turing-way.netlify.app/collaboration/github-collaboration.html)
 
 
 ### Cheatsheets and glossaries:
