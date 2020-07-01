@@ -34,3 +34,6 @@ We have covered a lot in a short amount of time. Below I have listed resources t
 - [first-contributions](https://github.com/firstcontributions/first-contributions): A project to help beginners to contribute to open source projects
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects
 
+---
+
+Previous: [GitHub for collaboration and best practices](06_Collaboration.md)
