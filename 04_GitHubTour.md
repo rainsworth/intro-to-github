@@ -4,20 +4,20 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
 
 ## Interface Tour
 
-1. GitHub home page: https://github.com/ (sign up or log in!)
-2. GitHub dashboard: https://github.com/ (logged in)
+1. GitHub home page: [https://github.com/](https://github.com/) (sign up or log in!)
+2. GitHub dashboard: [https://github.com/](https://github.com/) (logged in)
    - Your personal dashboard is the main hub of your activity on GitHub.
    - The dashboard might be confusing until we cover the topics related to repositories (such as issues, pull requests, etc.).
    - But in general, your dashboard provides easy access to your recent repositories and organisations (left sidebar), your recent activity and all activity from people you follow (centre column), and to explore featured repositories (right sidebar).
    - Click the icon (your GitHub profile image or avatar) in the top right corner and select "Your profile".
-3. GitHub profile: https://github.com/rainsworth
+3. GitHub profile: [https://github.com/rainsworth](https://github.com/rainsworth)
    - This is the page that shows information about a user's activity on GitHub.
    - User profile information such as name, description, links and organisations can be seen in the left sidebar.
    - The Overview tab displays the user's pinned repositories and contribution activity on GitHub.
    - The Repositories tab displays a list of the user's repositories.
    - The Projects and Packages tabs are beyond the scope of this session, but you can click the "Learn More" buttons to learn more about them.
    - Click back to the Repositories tab and go to the `intro-to-github` repository.
-4. GitHub repository: https://github.com/rainsworth/intro-to-github
+4. GitHub repository: [https://github.com/rainsworth/intro-to-github](https://github.com/rainsworth/intro-to-github)
    - A repository (or "repo") is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
    - At the very top you will see the user and repository name displayed as `username/repository-name`.
    - Underneath and to the right you will see buttons that say `Watch`, `Star` and `Fork`.
@@ -30,7 +30,7 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
          - In the right sidebar you will see information "About" the repository (such as a description, tagged topics, links to the README and license, release, package, contributor and environment information).
          - The repository file system is displayed in the centre (which contains the files associated with the project such as code, data, text, images, etc.).
             - Click through to a few of the files to preview them.
-            - Markdown (`.md` file): https://github.com/rainsworth/intro-to-github/blob/main/example_files/LoremIpsum.md
+            - [Example Markdown file](https://github.com/rainsworth/intro-to-github/blob/main/example_files/LoremIpsum.md) (`.md` file)
                - Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform (GitHub automatically renders anything written in Markdown such as specific files like the README, or your comments on pull requests and issues).
          - The README is automatically rendered underneath the file system. The README is a text file containing information about the repository that is typically the first file a visitor to your repository will see.
             - It is general practice to compose the README in Markdown and save as `README.md`.
@@ -76,7 +76,7 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
 
 ## Glossary
 
-Definitions are from the [GitHub Glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary#pull) with some minor edits and additions from me, and icons by [Icons8](https://icons8.com):
+Definitions are from the [GitHub Glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary#pull) with some minor edits, and icons by [Icons8](https://icons8.com):
 
 - <img src="https://img.icons8.com/material-outlined/24/000000/code-fork.png"/> **branch** - A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or ~~master~~ default branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the ~~master~~ default branch to publish your changes.
 - <img src="https://img.icons8.com/material-outlined/24/000000/download.png"/> **clone** - A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
@@ -112,5 +112,7 @@ Definitions are from the [GitHub Glossary](https://help.github.com/en/github/get
 - **Wiki** - A section for hosting wiki style documentation on a GitHub repository.
 
 ---
+
+Previous: [Examples of how GitHub is used](03_GitHubExamples.md)
 
 Next: [Using GitHub Demonstration](05_Demonstration.md)
