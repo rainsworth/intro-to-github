@@ -83,3 +83,7 @@ Every GitHub repository comes equipped with a section for hosting documentation,
 
 - [Documenting your project with wikis](https://help.github.com/en/github/building-a-strong-community/documenting-your-project-with-wikis)
 - [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
+
+---
+
+Next: [More Resources](07_MoreResources.md)

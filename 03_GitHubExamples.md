@@ -23,3 +23,7 @@ Example repos:
 - Example collaborative project (software): [Pooch](https://github.com/fatiando/pooch)
 - Fun random example: [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules](https://github.com/chrislgarry/Apollo-11)
 - Fun random example: [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover)
+
+---
+
+Next: [GitHub Interface Tour and Jargon Busting](04_GitHubTour.md)

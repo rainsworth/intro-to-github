@@ -110,3 +110,7 @@ Definitions are from the [GitHub Glossary](https://help.github.com/en/github/get
 - <img src="https://img.icons8.com/material-outlined/24/000000/star--v2.png"/> **star** - A bookmark or display of appreciation for a repository. Stars are a manual way to rank the popularity of projects.
 - <img src="https://img.icons8.com/material-outlined/24/000000/visible.png"/> **watch** - You can watch a repository or issue to receive notifications when updates are made to an issue or pull request.
 - **Wiki** - A section for hosting wiki style documentation on a GitHub repository.
+
+---
+
+Next: [Using GitHub Demonstration](05_Demonstration.md)
