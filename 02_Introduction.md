@@ -122,11 +122,13 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
 ## Attribution
 
 The content in this file has been adapted from:
-* Mozilla Science Lab's [Study Group Orientation](https://mozillascience.github.io/study-group-orientation/), Licensed [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
+* Mozilla Science Lab's [Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) (including the images in the [Version Control](#version-control) section), Licensed [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 * Mozilla Science Lab's [GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#introduction), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * Software Carpentry's [Version Control with Git](http://swcarpentry.github.io/git-novice/), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-* GitHub [Training Kit: Cheatsheets](https://github.github.com/training-kit/), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* GitHub [Training Kit: Cheatsheets](https://github.github.com/training-kit/) (inlcuding the image in the [GitHub](#github) section), Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
+
+Previous: [About Me](01_AboutMe.md)
 
 Next: [Examples of how GitHub is used](03_GitHubExamples.md)
