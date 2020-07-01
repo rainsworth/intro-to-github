@@ -43,9 +43,9 @@ Next, I will demonstrate how to make a contribution to another user's repository
 - Open a **pull request** to contribute them back to the original project 
 
 Demonstration:
-1. Go to Open Data Manchester's `training-and-resources` repository: https://github.com/OpenDataManchester/training-and-resources
+1. Go to Open Data Manchester's `training-and-resources` repository: [https://github.com/OpenDataManchester/training-and-resources](https://github.com/OpenDataManchester/training-and-resources). I explore the contents to learn more about the repository and see how best to contribute.
 2. I want to make changes to a project that I don’t have write access to. I therefore need to **fork** the repository. A **fork** is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original repository. That is, I can safely play around with the repository without breaking someone else's project. In the top right corner, click the `Fork` button.
-3. Open the `Pick-N-Mix` folder and explore the contents to learn more about the repository and see how best to contribute. Based on the existing structure, I can see that I should add a sub-directory with a README linking to the resources for my Intro to GitHub Pick N Mix session. 
+3. Once the repository has been forked (copied) to my account, I open the `Pick-N-Mix` folder. Based on the existing structure, I can see that I should add a sub-directory with a README linking to the resources for my Intro to GitHub Pick N Mix session. 
 3. Since I will not be changing any of the existing files, I will click on the `Add file` button and select `Create new file`.
 4. We now see the editor where we will create our new file. Following the convention of the repository, I will create `readme.md` in a folder called `Intro to GitHub`. To do this, I type  
    ```
@@ -75,7 +75,7 @@ Demonstration:
    ```
    This pull request adds the list of resources for Pick N Mix 9: an introduction to Github.
    ```
-11. Click `Create pull request` to request that the repository owners pull your contributions into their project. Congratulations, you've contributed to an open source project! :tada:
+11. Click `Create pull request` to request that the repository owners pull your contributions into their project. Congratulations, you've contributed to an open source project! :tada: 
 
 
 ## Creating a personal website using GitHub Pages
@@ -84,7 +84,7 @@ For a beginners guide to creating a personal website using GitHub Pages, check o
 
 1. Identify what information/sections/tabs/pages you want to include on your website (e.g. an About page, an events page, a list of projects, a blog, contact info, etc.).
 2. Choose a theme (e.g. from [http://jekyllthemes.org/](http://jekyllthemes.org/)) that you like that will best present that information.
-3. Go to your chosen theme's GitHub **repository** (for example I used the [Moon](https://github.com/TaylanTatli/Moon) theme for my GitHub website that you can view here: https://rainsworth.github.io
+3. Go to your chosen theme's GitHub **repository** (for example I used the [Moon](https://github.com/TaylanTatli/Moon) theme for my GitHub website that you can view here: [https://rainsworth.github.io](https://rainsworth.github.io)
 4. **Fork** the theme **repository**. This copies the contents of the theme to your account so that you can edit and use while maintaining credit to the theme authors.
 5. Go to the `Settings` tab to update the repository name to `username.github.io` (replacing "username" with your GitHub username) and enable GitHub Pages by selecting a permitted branch (usually `master` or `gh-pages`) as a source for your webpage. GitHub will then indicate where your site is published in a green notification box (in this case, at https://username.github.io where "username" is your GitHub username).
 6. Return to the `Code` tab and edit the `_config.yml` file to point to your repository, change the title and any other user information.
@@ -94,5 +94,7 @@ For a beginners guide to creating a personal website using GitHub Pages, check o
 10. **Merge** the **pull request** and check out your website! :tada:
 
 ---
+
+Previous: [GitHub Interface Tour and Jargon Busting](04_GitHubTour.md)
 
 Next: [GitHub for collaboration and best practices](06_Collaboration.md)
