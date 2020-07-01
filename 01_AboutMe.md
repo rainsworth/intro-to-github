@@ -11,9 +11,9 @@ She was previously a Research Associate at the Jodrell Bank Centre for Astrophys
 She is also an SSI Fellow, FOSTER certified Open Science Trainer, Mozilla Open Leader, TEDx speaker, and Founder of the Manchester chapter of the women in data meetup group HER+Data MCR.
 
 Social channels:
-- Rachael on GitHub: https://github.com/rainsworth
-- Rachael on Twitter: https://twitter.com/rachaelevelyn
-- Rachael on LinkedIn: https://www.linkedin.com/in/rachaelainsworth
+- [Rachael on GitHub](https://github.com/rainsworth)
+- [Rachael on Twitter](https://twitter.com/rachaelevelyn)
+- [Rachael on LinkedIn](https://www.linkedin.com/in/rachaelainsworth)
 
 ## HER+Data MCR
 
@@ -24,10 +24,10 @@ HER+Data MCR ("Her plus Data Manchester") is a community working to connect, ins
 In 2020, we have begun opening our events to everyone through collaborations with other communities such as Open Data Manchester and Women in Tech North. If you are interesting in collaborating on an event, please get in touch!
 
 Social channels:
-- HER+Data MCR on Meetup: https://www.meetup.com/HER-Data-MCR
-- HER+Data MCR on Twitter: https://twitter.com/herplusdatamcr
-- HER+Data MCR on LinkedIn: https://www.linkedin.com/company/her-data-mcr
-- HER+Data MCR on Youtube: https://www.youtube.com/channel/UCbkseOUhsxFZNgzMc404f4Q
+- [HER+Data MCR on Meetup](https://www.meetup.com/HER-Data-MCR)
+- [HER+Data MCR on Twitter](https://twitter.com/herplusdatamcr)
+- [HER+Data MCR on LinkedIn](https://www.linkedin.com/company/her-data-mcr)
+- [HER+Data MCR on Youtube](https://www.youtube.com/channel/UCbkseOUhsxFZNgzMc404f4Q)
 
 ---
 
