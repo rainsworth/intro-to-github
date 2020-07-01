@@ -86,4 +86,6 @@ Every GitHub repository comes equipped with a section for hosting documentation,
 
 ---
 
+Previous: [Using GitHub Demonstration](05_Demonstration.md)
+
 Next: [More Resources](07_MoreResources.md)
