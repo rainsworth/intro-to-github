@@ -26,4 +26,6 @@ Example repos:
 
 ---
 
+Previous: [A friendly introduction to Version Control, Git and GitHub](02_Introduction.md)
+
 Next: [GitHub Interface Tour and Jargon Busting](04_GitHubTour.md)
