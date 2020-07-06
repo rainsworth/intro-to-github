@@ -24,6 +24,13 @@ Repo, branch, clone, fork, pull request, merge - what? One of the biggest barrie
 7. [More resources](07_MoreResources.md)
 
 
+## Recording
+
+<iframe width="640" height="360" src="https://player.vimeo.com/video/435771660"></iframe>
+
+[Pick N Mix 9: An Introduction to Github](https://vimeo.com/435771660) from [Open Data Manchester CIC](https://vimeo.com/opendatamcr) on [Vimeo](https://vimeo.com).
+
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
