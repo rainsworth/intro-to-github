@@ -70,7 +70,7 @@ One barrier to using Git and GitHub is that it can seem difficult to learn, beca
          - The Insights tab allows you to explore the activity within your repository such as an overview of issues and pull requests, who has contributed to the repository, traffic to the repository, the network graph (timeline of the most recent commits to this repository and its network ordered by most recently pushed to), who has forked the repository and more.
          - Click around the different items in the left sidebar to explore.
       - Settings
-         - The Settings tab allows you to manage the settings of your repository, such as the repository name, enabling features, setting up GitHub pages (turing your repo into a website), deleting the repository, managing notifications and more.
+         - The Settings tab allows you to manage the settings of your repository, such as the repository name, enabling features, setting up GitHub pages (turning your repo into a website), deleting the repository, managing notifications and more.
          - Click around the different items in the left sidebar to explore.
 
 
