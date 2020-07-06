@@ -1,4 +1,7 @@
 # Introduction to Using GitHub :octocat:
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+ [![DOI](https://zenodo.org/badge/272719280.svg)](https://zenodo.org/badge/latestdoi/272719280)
+
 
 A friendly introduction to using GitHub as part of [Open Data Manchester's Pick N Mix](http://www.opendatamanchester.org.uk/?p=1343) series.
 
@@ -31,5 +34,3 @@ You can watch the recording of this session on [Vimeo here](https://vimeo.com/43
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
