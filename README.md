@@ -24,6 +24,10 @@ Repo, branch, clone, fork, pull request, merge - what? One of the biggest barrie
 7. [More resources](07_MoreResources.md)
 
 
+## Recording
+
+You can watch the recording of this session on [Vimeo here](https://vimeo.com/435771660).
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
