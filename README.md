@@ -1,4 +1,4 @@
-# Introduction to Using GitHub :octocat:
+# Introduction to Using GitHub
 
 A friendly introduction to using GitHub as part of [Open Data Manchester's Pick N Mix](http://www.opendatamanchester.org.uk/?p=1343) series.
 
