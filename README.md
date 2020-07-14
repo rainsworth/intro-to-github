@@ -3,12 +3,13 @@
  [![DOI](https://zenodo.org/badge/272719280.svg)](https://zenodo.org/badge/latestdoi/272719280)
 
 
-A friendly introduction to using GitHub as part of [Open Data Manchester's Pick N Mix](http://www.opendatamanchester.org.uk/?p=1343) series.
+A friendly introduction to using GitHub as part of [Open Data Manchester's Pick N Mix](https://www.opendatamanchester.org.uk/a-pick-n-mix-of-skillshares-from-the-odm-community-all-online-now-or-suggest-your-own/) series.
 
 Session information:
 - Date: Tuesday, 30 June 2020
 - Time: 18:30-20:00 BST
 - [Registration page](https://www.eventbrite.co.uk/e/pick-n-mix-9-an-introduction-to-github-tickets-108128196346)
+- [Open Data Manchester on GitHub](https://github.com/OpenDataManchester)
 
 
 ## Summary
